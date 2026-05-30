@@ -1,1 +1,18 @@
+Project 1 — Sales Data Analysis (MUST DO FIRST)
+Folder:
 
+01_Sales_Data_Analysis
+
+Include:
+dataset (CSV)
+Jupyter notebook
+graphs
+insights report
+Skills shown:
+Pandas
+Seaborn
+Matplotlib
+Output:
+revenue trends
+top products
+monthly performance
